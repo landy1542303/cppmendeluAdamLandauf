@@ -3,6 +3,10 @@
 
 #include <string>
 
+/* 
+    Kde je uchovan vlastni slovnik povolenych slov?
+ */   
+
 class Dictionary {
 private:
     std::string history = " ";

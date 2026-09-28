@@ -1,0 +1,18 @@
+# Sestavené binárky a složky sestavení
+build/
+bin/
+obj/
+*.o
+*.obj
+*.exe
+*.out
+
+# Složky z IDE a editorů
+.vs/
+.vscode/
+.idea/
+*.user
+
+# Systémové soubory
+.DS_Store
+Thumbs.db
